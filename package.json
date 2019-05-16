@@ -1,6 +1,6 @@
 {
   "name": "array-object-converter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "2 arrays are converted to single object where key is from first array and value is from second.",
   "main": "index.js",
   "scripts": {
