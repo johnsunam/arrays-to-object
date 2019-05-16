@@ -1,10 +1,14 @@
 {
   "name": "array-object-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "2 arrays are converted to single object where key is from first array and value is from second.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johnsunam/arrays-to-object.git"
   },
   "keywords": [
     "object",
