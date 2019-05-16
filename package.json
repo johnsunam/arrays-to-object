@@ -1,0 +1,11 @@
+{
+  "name": "arrays-to-object",
+  "version": "1.0.0",
+  "description": "2 arrays are converted to single object where key is from first array and value is from second.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Sunam",
+  "license": "ISC"
+}
